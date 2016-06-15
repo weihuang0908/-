@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+ <head>
+ </head>
+        <docTitle>
+               <text>最后的守护者</text>
+        </docTitle>
+	<navMap>
+		<navPoint id="toc" playOrder="1">
+			<navLabel>
+				<text>
+					目录
+				</text>
+			</navLabel>
+			<content src="index.html#toc" />
+		</navPoint>
+		<navPoint id="ch0" playOrder="2">
+			<navLabel>
+				<text>
+					序幕 孤独堡垒
+				</text>
+			</navLabel>
+			<content src="index.html#ch0" />
+		</navPoint>
+		<navPoint id="ch1" playOrder="3">
+			<navLabel>
+				<text>
+					第一章 卡拉赞
+				</text>
+			</navLabel>
+			<content src="index.html#ch1" />
+		</navPoint>
+		<navPoint id="ch2" playOrder="4">
+			<navLabel>
+				<text>
+					第二章 首次接触
+				</text>
+			</navLabel>
+			<content src="index.html#ch2" />
+		</navPoint>
+				<navPoint id="ch3" playOrder="5">
+			<navLabel>
+				<text>
+					第三章 初步成绩
+				</text>
+			</navLabel>
+			<content src="index.html#ch3" />
+		</navPoint>
+		<navPoint id="ch4" playOrder="6">
+			<navLabel>
+				<text>
+					第四章 战斗前后
+				</text>
+			</navLabel>
+			<content src="index.html#ch4" />
+		</navPoint>
+		<navPoint id="ch5" playOrder="7">
+			<navLabel>
+				<text>
+					第五章 时光之砂
+				</text>
+			</navLabel>
+			<content src="index.html#ch5" />
+		</navPoint>
+				<navPoint id="ch6" playOrder="8">
+			<navLabel>
+				<text>
+					第六章 艾格文与萨格拉斯
+				</text>
+			</navLabel>
+			<content src="index.html#ch6" />
+		</navPoint>
+		<navPoint id="ch7" playOrder="9">
+			<navLabel>
+				<text>
+					第七章 暴风城
+				</text>
+			</navLabel>
+			<content src="index.html#ch7" />
+		</navPoint>
+		<navPoint id="ch8" playOrder="10">
+			<navLabel>
+				<text>
+					第八章 授课
+				</text>
+			</navLabel>
+			<content src="index.html#ch8" />
+		</navPoint>
+				<navPoint id="ch9" playOrder="11">
+			<navLabel>
+				<text>
+					第九章 星界法师的沉睡
+				</text>
+			</navLabel>
+			<content src="index.html#ch9" />
+		</navPoint>
+		<navPoint id="ch10" playOrder="12">
+			<navLabel>
+				<text>
+					第十章 使节
+				</text>
+			</navLabel>
+			<content src="index.html#ch10" />
+		</navPoint>
+		<navPoint id="ch11" playOrder="13">
+			<navLabel>
+				<text>
+					第十一章 迦罗娜
+				</text>
+			</navLabel>
+			<content src="index.html#ch11" />
+		</navPoint>
+		<navPoint id="ch12" playOrder="14">
+			<navLabel>
+				<text>
+					第十二章 战争时代来临
+				</text>
+			</navLabel>
+			<content src="index.html#ch14" />
+		</navPoint>
+				<navPoint id="ch13" playOrder="15">
+			<navLabel>
+				<text>
+					第十三章 第二个影子
+				</text>
+			</navLabel>
+			<content src="index.html#ch13" />
+		</navPoint>
+				<navPoint id="ch14" playOrder="16">
+			<navLabel>
+				<text>
+					第十四章 逃亡
+				</text>
+			</navLabel>
+			<content src="index.html#ch14" />
+		</navPoint>
+		<navPoint id="ch15" playOrder="17">
+			<navLabel>
+				<text>
+					第十五章 卡拉赞塔下
+				</text>
+			</navLabel>
+			<content src="index.html#ch15" />
+		</navPoint>
+				<navPoint id="ch16" playOrder="18">
+			<navLabel>
+				<text>
+					第十六章 法师的灭亡
+				</text>
+			</navLabel>
+			<content src="index.html#ch16" />
+		</navPoint>
+		<navPoint id="epi" playOrder="19">
+			<navLabel>
+				<text>
+					终章 功行圆满
+				</text>
+			</navLabel>
+			<content src="index.html#epi" />
+		</navPoint>
+		<navPoint id="append" playOrder="20">
+			<navLabel>
+				<text>
+					附录 卡拉赞的起源
+				</text>
+			</navLabel>
+			<content src="index.html#append" />
+		</navPoint>
+	</navMap>
+</ncx>
