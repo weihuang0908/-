@@ -14,7 +14,7 @@
 					目录
 				</text>
 			</navLabel>
-			<content src="index.html#toc" />
+			<content src="toc.html#toc" />
 		</navPoint>
 		<navPoint id="ch0" playOrder="2">
 			<navLabel>
@@ -118,7 +118,7 @@
 					第十二章 战争时代来临
 				</text>
 			</navLabel>
-			<content src="index.html#ch14" />
+			<content src="index.html#ch12" />
 		</navPoint>
 				<navPoint id="ch13" playOrder="15">
 			<navLabel>
